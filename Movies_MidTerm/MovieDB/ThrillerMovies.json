@@ -1,0 +1,49 @@
+{
+    "ThrillerMovies": [
+        {
+            "id": 1,
+            "title": "Escape Plan 2",
+            "description": "Years after he fought his way out of an inescapable prison, Ray Breslin has organized a new top-notch security force. But when one of his team members goes missing, Breslin must return to the hell he once escaped from.",
+            "director": "Steven C. Miller",
+            "writer": "Miles Chapman, Miles Chapman",
+            "stars": "Sylvester Stallone, Dave Baustista, Xiaoming Huang",
+            "trailer": "https://www.youtube.com/embed/6Q7vVt-MeXk",
+            "image": "~/images/thriller/EscapePlan2.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "Insidious: The Last Key",
+            "description": "Parapsychologist Dr. Elise Rainier faces her most fearsome and personal haunting yet, as she is drawn back to her ghostly childhood home, where the terror began.",
+            "director": "Adam Robitel",
+            "writer": "Leigh Whannell, Leigh Whannell",
+            "stars": "Lin Shaye, Leigh Whannell, Angus Sampson",
+            "trailer": "https://www.youtube.com/embed/acQyrwQyCOk",
+            "image": "~/images/thriller/Insidious.jpg",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "title": "The Night Comes for Us",
+            "description": "Ito (Joe Taslim), a gangland enforcer, caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad.",
+            "director": "Timo Tjahjanto",
+            "writer": "Timo Tjahjanto",
+            "stars": "Iko Uwais, Joe Taslim, Julie Estelle",
+            "trailer": "https://www.youtube.com/embed/HfSisHrUTLM",
+            "image": "~/images/thriller/TheNightComesForUs.ipg",
+            "price": "60"
+        },
+        {
+            "id": 4,
+            "title": "Truth or Dare",
+            "description": "A harmless game of Truth or Dare among friends turns deadly when someone or something begins to punish those who tell a lie or refuse the dare.",
+            "director": "Jeff Wadlow",
+            "writer": "Michael Reisz, Jillian Jacobs",
+            "stars": "Lucy Hale, Tyler Posey, Violett Beane",
+            "trailer": "https://www.youtube.com/embed/Cgnk3MLw9TM",
+            "image": "~/images/thriller/TruthorDare.jpg",
+            "price": "60"
+        }
+    ]
+
+}

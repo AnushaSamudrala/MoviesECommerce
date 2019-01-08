@@ -1,0 +1,49 @@
+{
+    "DramaMovies": [
+        {
+            "id": 1,
+            "title": "American Animals",
+            "description": "Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history.",
+            "director": "Bart Layton",
+            "writer": "Bart Layton",
+            "stars": "Spencer Reinhard, Warren Lipka, Eric Borsuk",
+            "trailer": "https://www.youtube.com/embed/SKvPVvy2Kn8",
+            "image": "~/images/Drama/AmericanAnimals.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "Leave No Trace",
+            "description": "A father and his thirteen year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon, when a small mistake derails their lives forever.",
+            "director": "Debra Granik",
+            "writer": " Debra Granik, Anne Rosellini",
+            "stars": "Thomasin McKenzie, Ben Foster, Jeffery Rifflard",
+            "trailer": "https://www.youtube.com/embed/_07ktacEGo8",
+            "image": "~/images/Drama/LeaveNotrace.jpg",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "title": "Searching",
+            "description": "After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her.",
+            "director": "Aneesh",
+            "writer": "Aneesh, Sev Ohanian",
+            "stars": " John Cho, Debra Messing, Joseph Lee",
+            "trailer": "https://www.youtube.com/embed/3Ro9ebQxEOY",
+            "image": "~/images/Drama/Searching.jpg",
+            "price": "60"
+        },
+        {
+            "id": 4,
+            "title": "The Hate U Give",
+            "description": "Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer. Now, facing pressure from all sides of the community, Starr must find her voice and stand up for what's right.",
+            "director": "George Tillman Jr.",
+            "writer": "Audrey Wells, Angie Thomas",
+            "stars": "Amandla Stenberg, Regina Hall, Russell Hornsby",
+            "trailer": "https://www.youtube.com/embed/3MM8OkVT0hw",
+            "image": "~/images/Drama/TheHateUGive.jpg",
+            "price": "60"
+        }
+    ]
+
+}

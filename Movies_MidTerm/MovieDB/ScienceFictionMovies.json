@@ -1,0 +1,49 @@
+{
+    "ScienceFictionMovies": [
+        {
+            "id": 1,
+            "title": "Cloverfeild Paradox",
+            "description": "Orbiting a planet on the brink of war, scientists test a device to solve an energy crisis, and end up face-to-face with a dark alternate reality.",
+            "director": "Julius Onah",
+            "writer": "Oren Uziel",
+            "stars": "Gugu Mbatha- Raw, David Oyelowo, Daniel Bruhl",
+            "trailer": "https://www.youtube.com/embed/8brYvhEg5Aw",
+            "image": "~/images/sciencefiction/CloverfeildParadox.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "Extinction",
+            "description": "A father has a recurring dream of losing his family. His nightmare turns into reality when the planet is invaded by a force bent on destruction. Fighting for their lives, he comes to realize an unknown strength to keep them safe from harm.",
+            "director": "Ben Young",
+            "writer": "Spenser Cohen, Brad Kane",
+            "stars": "Michael Pena, Lizzy Caplan, Amelia Crounch",
+            "trailer": "https://www.youtube.com/embed/-ePDPGXkvlw",
+            "image": "~/images/sciencefiction/Extinction.jpg",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "title": "Fahrenheit 451",
+            "description": "In a terrifying care-free future, a young man, Guy Montag, whose job as a fireman is to burn all books, questions his actions after meeting a young woman and begins to rebel against society.",
+            "director": "Ramin Bahrani",
+            "writer": "Ray Bradbury, Ramin Bahrani",
+            "stars": "Michael B. Jordan, Aaron Davis, Sofia Boutella",
+            "trailer": "https://www.youtube.com/embed/mNKwe9k55fs",
+            "image": "~/images/sciencefiction/Fahrenheit451.jpg",
+            "price": "60"
+        },
+        {
+            "id": 4,
+            "title": "Titan",
+            "description": "A military family takes part in a ground-breaking experiment of genetic evolution and space exploration.",
+            "director": "Lennart Ruff",
+            "writer": "Max Hurwitz, Arash Amel",
+            "stars": "Sam Worthington, Taylor Schilling, Tom Wilkinson",
+            "trailer": "https://www.youtube.com/embed/ctM8zpe3BHo",
+            "image": "~/images/sciencefiction/Titan.jpg",
+            "price": "60"
+        }
+    ]
+
+}

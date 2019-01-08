@@ -1,0 +1,94 @@
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.deps.json
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.runtimeconfig.json
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.runtimeconfig.dev.json
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.dll
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.pdb
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.Views.dll
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.Views.pdb
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.csprojAssemblyReference.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorAssemblyInfo.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorAssemblyInfo.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.AssemblyInfoInputs.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.AssemblyInfo.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.TagHelpers.input.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.TagHelpers.output.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorCoreGenerate.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorTargetAssemblyInfo.cache
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorTargetAssemblyInfo.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.Views.pdb
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.dll
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.pdb
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.csproj.CopyComplete
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Animation\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Comedy\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Drama\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Fantasy\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Action\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Documentary\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Horror\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Thriller\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Cart\AddToCart.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Cart\DeleteFromCart.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Address\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Address\Payment.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Payment\Summary.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\ScienceFiction\Index.g.cshtml.cs
+C:\Users\anush\source\repos\Movies_MidTerm\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.deps.json
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.runtimeconfig.json
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.runtimeconfig.dev.json
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.dll
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.pdb
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.Views.dll
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\bin\Debug\netcoreapp2.1\Movies_MidTerm.Views.pdb
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.csprojAssemblyReference.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorAssemblyInfo.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorAssemblyInfo.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.AssemblyInfo.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.TagHelpers.input.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.TagHelpers.output.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorCoreGenerate.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Action\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Address\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Address\Payment.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Animation\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Cart\AddToCart.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Cart\DeleteFromCart.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Comedy\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Documentary\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Drama\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Fantasy\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Horror\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Payment\Summary.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\ScienceFiction\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\Thriller\Index.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorTargetAssemblyInfo.cache
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.RazorTargetAssemblyInfo.cs
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.Views.pdb
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.dll
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.pdb
+C:\Users\anush\OneDrive\Desktop\Movies_MidTerm -\Movies_MidTerm\obj\Debug\netcoreapp2.1\Movies_MidTerm.csproj.CopyComplete

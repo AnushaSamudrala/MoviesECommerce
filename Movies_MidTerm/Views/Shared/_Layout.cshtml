@@ -1,0 +1,116 @@
+﻿@using System.Web
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Movies</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link href="~/css/custom.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: #953C3C;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*<a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand" style="color: white;">Movies</a>*@
+                <a href="https://localhost:44357/">
+                    <img src="~/images/logo.jpg" />
+
+                </a>
+                <br />
+
+            </div>
+            @{
+                var controllerName = string.Empty;
+                object controllerObj;
+                var actionName = string.Empty;
+
+                if (ViewContext.RouteData.Values.TryGetValue("controller", out controllerObj))
+                {
+                    controllerName = controllerObj.ToString();
+                }
+
+            }
+            @if (controllerName != "Login")
+            {
+            <div class="btn-group pull" role="group" aria-label="Basic example">
+                <input type="button" id="Home" value="Home" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Home")'">
+                <input type="button" id="Action" value="Action" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Action")'">
+                <input type="button" id="Comedy" value="Comedy" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Comedy")'">
+                <input type="button" id="Animation" value="Animation" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Animation")'">
+                <input type="button" id="Drama" value="Drama" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Drama")'">
+                <input type="button" id="Documentary" value="Documentary" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Documentary")'">
+                <input type="button" id="Fantasy" value="Fantasy" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Fantasy")'">
+                <input type="button" id="Horror" value="Horror" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Horror")'">
+                <input type="button" id="ScienceFiction" value="ScienceFiction" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "ScienceFiction")'">
+                <input type="button" id="Thriller" value="Thriller" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Thriller")'">
+                <input type="button" id="Cart" value="Cart" class="btn btn-success" onclick="location.href='@Url.Action("AddToCart", "Cart")'">
+
+            </div>
+            }
+            @*<div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav" style="color: white;">
+                <li><a asp-area="" asp-controller="Home" asp-action="Index" style="color: white;" class="myfont">Home</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="About" style="color: white;" class="myfont">About</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Contact" style="color: white; class="myfont"">Contact</a></li>
+            </ul>
+        </div>*@
+
+        </div>
+    </nav>
+
+    <partial name="_CookieConsentPartial" />
+
+    <div class="container body-content" style="margin-top:80px;">
+       
+        @RenderBody()
+        <hr />
+        @*<footer>
+            <p>&copy; 2018 - Movies_MidTerm</p>
+        </footer>*@
+    </div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/js/addTocart.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

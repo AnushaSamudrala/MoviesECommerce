@@ -1,0 +1,50 @@
+{
+    "comedyMovies": [
+        {
+            "id": 1,
+            "title": "Sorry to Bother you",
+            "description": "An alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
+            "director": "Boots Riley",
+            "writer": "Boots Riley",
+            "stars": "Lakeith Stanfield, Tessa Thompson, Jermaine Fowler",
+            "trailer": "https://www.youtube.com/embed/enH3xA4mYcY",
+            "image": "~/images/comedy/SorryToBotherYou.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "Night School",
+            "description": "A group of troublemakers are found to attend night school in hope that they’ll pass the GED exam to finish high school.",
+            "director": "Malcom D. Lee",
+            "writer": "Kevin Hart, Harry Ratchford",
+            "stars": "Tiffany Haddish, Kevin Hart, Keith David",
+            "trailer": "https://www.youtube.com/embed/t9QtXGirWf0",
+            "image": "~/images/comedy/NightSchool.jpg",
+            "price": "60"
+        },
+
+        {
+            "id": 3,
+            "title": "Mamma Mia!",
+            "description": "Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand opening of the Hotel Bella Donna as she learns more about her mother’s past.",
+            "director": "OI Parker",
+            "writer": "OI Parker, Richard Curtis (story by)",
+            "stars": "Lily James, Amanda Seyfried, Meryl Streep",
+            "trailer": "https://www.youtube.com/embed/nd4cLL_MP7M",
+            "image": "~/images/comedy/MammaMia!.jpg",
+            "price": "60"
+        },
+        {
+            "id": 4,
+            "title": "Book Club",
+            "description": "Four lifelong friends have their lives forever changed after reading 50 shades of Grey in their monthly book club.",
+            "director": "Bill Holderman",
+            "writer": "Bill Holderman, Erin Simms",
+            "stars": "Diane Keaton, Jane Fonda, Candice Bergen",
+            "trailer": "https://www.youtube.com/embed/LDxgPIsv6sY",
+            "image": "~/images/comedy/BookClub.jpg",
+            "price": "60"
+        }
+
+            ]
+        }

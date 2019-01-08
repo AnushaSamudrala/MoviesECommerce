@@ -1,0 +1,50 @@
+{
+    "HorrorMovies": [
+
+        {
+            "id": 1,
+            "title": "Overlord",
+            "description": "The story of two American soldiers behind enemy lines on D Day.",
+            "director": "Julius Avery",
+            "writer": " Billy Ray,  Mark L. Smith",
+            "stars": "Wyatt Russell, Pilou Asbæk, John Magaro",
+            "trailer": "https://www.youtube.com/embed/USPd0vX2sdc",
+            "image": "~/images/horror/Overlord.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "The First Purge",
+            "description": "America's third political party, the New Founding Fathers of America, comes to power and conducts an experiment: no laws for 12 hours on Staten Island. No one has to stay on the island, but $5,000 is given to anyone who does.",
+            "director": "Gerard McMurray",
+            "writer": "James DeMonaco",
+            "stars": "Y'lan Noel, Lex Scott Davis, Joivan Wade",
+            "trailer": "https://www.youtube.com/embed/UL29y0ah92w",
+            "image": "~/images/horror/TheFirstPurge.jpg",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "title": "The Strangers Pray At Night",
+            "description": "A family of four staying at a secluded mobile home park for the night are stalked and then hunted by three masked psychopaths.",
+            "director": "Johannes Roberts",
+            "writer": "Bryan Bertino, Ben Ketai",
+            "stars": "Christina Hendricks, Martin Henderson, Bailee Madison",
+            "trailer": "https://www.youtube.com/embed/4_geUW08phI",
+            "image": "~/images/horror/TheStrangersPrayAtNight.jpg",
+            "price": "60"
+        },
+        {
+            "id": 4,
+            "title": "Winchester",
+            "description": "Ensconced in her sprawling California mansion, eccentric firearm heiress Sarah Winchester believes she is haunted by the souls of people killed by the Winchester repeating rifle.",
+            "director": "Michael Spierig, Peter Spierig",
+            "writer": " Tom Vaughan, Michael Spierig",
+            "stars": " Helen Mirren, Sarah Snook, Finn Scicluna-O'Prey",
+            "trailer": "https://www.youtube.com/embed/0Juc2cL26mg",
+            "image": "~/images/horror/Winchester.jpg",
+            "price": "60"
+        }
+    ]
+
+}

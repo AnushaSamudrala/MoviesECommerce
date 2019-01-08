@@ -1,0 +1,58 @@
+{
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action",
+            "thumbnail": "ActionThumbnail.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "Animation",
+            "thumbnail": "Animation.jpg"
+
+        },
+        {
+            "id": 35,
+            "name": "Comedy",
+            "thumbnail": "Bean.jpg"
+
+        },
+        {
+            "id": 80,
+            "name": "Drama",
+            "thumbnail": "DramaThumbnail.jpg"
+
+        },
+        {
+            "id": 99,
+            "name": "Documentary",
+            "thumbnail": "DocumentaryThumbnail.jpg"
+
+        },
+        {
+            "id": 10751,
+            "name": "Fantasy",
+            "thumbnail": "FantasyThumbnail.jpg"
+
+        },
+        {
+            "id": 27,
+            "name": "Horror",
+            "thumbnail": "HorrorThumbnail.jpg"
+
+        },
+        {
+            "id": 878,
+            "name": "ScienceFiction",
+            "thumbnail": "Scifi.jpeg"
+
+        },
+        {
+            "id": 53,
+            "name": "Thriller",
+            "thumbnail": "ThrillerThumbnail.jpg"
+
+        }
+    ]
+}

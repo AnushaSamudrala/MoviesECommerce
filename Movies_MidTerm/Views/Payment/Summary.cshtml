@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Review your Order</h2>
+<div class="container alert alert-danger">
+    <div class="row">
+        <div>
+
+
+
+
+        </div>
+        <div class="row" style="margin-left:0px;">
+            <div class="col-xs-6 text-primary" style="font-family: 'Open Sans', sans-serif;">
+                <div class="text-success">
+                    <strong> Shipping Address </strong>               <br />
+                </div>
+                <strong class="text-uppercase text-danger"> Full Name:</strong>   @ViewBag.address.FullName <br>
+                <strong class="text-uppercase text-danger">Address Line 1:</strong>     @ViewBag.address.AddressLine1 <br>
+                <strong class="text-uppercase text-danger">    Address Line 2:</strong>    @ViewBag.address.AddressLine2 <br>
+                <strong class="text-uppercase text-danger">    City: </strong>   @ViewBag.address.City <br>
+                <strong class="text-uppercase text-danger">State:</strong>    @ViewBag.address.State <br>
+                <strong class="text-uppercase text-danger">ZipCode :</strong>@ViewBag.address.ZipCode
+            </div>
+            <div class="text-success">
+                <strong> Payment Method</strong>               <br />
+            </div>
+            <div class="col-xs-4 text-primary">
+
+                <div class="col-xs-6 text-primary pull-left" style="font-family: 'Open Sans', sans-serif;">
+                    <strong class="text-uppercase text-danger pull-left"> Card Number:</strong>   @ViewBag.payment.CardNumber <br>
+                </div>
+
+            </div>
+            <div class="col-xs-6 text-primary">
+
+                <div class="col-xs-6 text-primary pull-left" style="font-family: 'Open Sans', sans-serif;">
+                    <hr>
+                    <strong class="text-uppercase text-danger pull-left"><label style="width:120px;"> Total Price                   :</label>  $  @ViewBag.totalPrice</strong>  <br>
+                    <strong class="text-uppercase text-danger pull-left"> Applicable Tax: $ @ViewBag.totalTax</strong>  <br>
+                    <hr />
+                    <strong class="text-uppercase text-danger pull-left"><label style="width:120px;">  Total                :</label>$  @ViewBag.total</strong> <br>
+                    <div class="form-group">
+                        <label for="usr">Redeem Giftcard or Promo Code:</label>
+                        <input type="text" class="form-control" id="usr">
+                    </div>
+                </div>
+
+            </div>
+            
+        </div>
+        <br />
+        <div class="row">
+
+            <div class="col-xs-8 text-primary">
+                <h4 class="align-center">    <strong class="text-success"> There are a total of  @ViewBag.moviesCount  in your cart.</strong>  </h4><br>
+            </div>
+
+        </div>
+        <input type="button" id="PlaceOrder" value="Place the order" class="btn btn-primary pull-left" onclick="location.href='@Url.Action("Index", "Home")'">
+
+    </div>
+</div>
+

@@ -1,0 +1,46 @@
+﻿@using Newtonsoft.Json;
+
+@{
+    ViewData["Title"] = "Thriller";
+}
+
+<h2>Thriller  Movies</h2>
+<div class="container alert alert-danger">
+    <div class="row">
+        @foreach (var movie in ViewBag.movies)
+        {
+            //var temp= JsonConvert.SerializeObject(movie);
+            <div class="row" style="margin-left:0px;">
+                <div class="col-xs-2">
+                    <a href="#" class="thumbnail" style="width:135px;">
+
+                        <img src="@Url.Content((string)movie.image)" alt="ASP.NET" class="img-responsive" />
+
+                    </a>
+                </div>
+                <div class="col-xs-6 text-primary" style="font-family: 'Open Sans', sans-serif;">
+                    <strong class="text-uppercase text-danger"> Title:</strong>   @movie.title <br>
+                    <strong class="text-uppercase text-danger">Description:</strong>     @movie.description <br>
+                    <strong class="text-uppercase text-danger">    Director:</strong>    @movie.director <br>
+                    <strong class="text-uppercase text-danger">    Writer: </strong>   @movie.writer <br>
+                    <strong class="text-uppercase text-danger">Stars:</strong>    @movie.stars <br>
+                    <strong class="text-uppercase text-danger">Price :</strong>$@movie.price
+
+                    <div class="text-success">
+                        <strong>  In Stock. </strong>                Ships from and sold by MovieBuzz. Gift-wrap available. <br />
+                    </div>
+                    <input type="button" id="addToCart" value="Add to Cart" class="btn btn-primary" onclick="location.href='@Url.Action("AddToCart", "Cart",new { id =movie.id, title = movie.title, description=movie.description ,director=movie.director , writer=movie.writer ,stars=movie.stars, trailer=movie.trailer ,image=movie.image })'">
+
+                </div>
+                <div class="col-xs-4 text-primary">
+                    <strong> Watch the trailor </strong>
+                    <iframe type="text/html" width="300" height="200" src="@movie.trailer" frameborder="0"></iframe>
+
+                </div>
+            </div>
+            <hr>
+
+        }
+    </div>
+</div>
+

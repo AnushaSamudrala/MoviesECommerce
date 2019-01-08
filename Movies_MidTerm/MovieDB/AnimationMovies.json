@@ -1,0 +1,56 @@
+{
+    "AnimationMovies": [
+        {
+            "id": 1,
+            "title": "Incredibles 2",
+            "description": "Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world.",
+            "director": "Brad Bird",
+            "writer": "Brad Bird",
+            "stars": "Craig T. Nelson, Holly Hunter, Sarah Vowell",
+            "trailer": "https://www.youtube.com/embed/i5qOzqD9Rms",
+            "image": "~/images/animation/Incredibles2.jpg",
+            "price": "60"
+
+        },
+        {
+            "id": 2,
+            "title": "Peter Rabbit",
+            "description": "Feature adaption of Beatrix Potter’s classic tale of a rebellious rabbit trying to sneak into a farmer’s vegetable garden.",
+            "director": "Will Gluck",
+            "writer": "Rob Lieber, Will Gluck",
+            "stars": ": James Corden, favssal Bazzi, Domhnall Gleeson",
+            "trailer": "https://www.youtube.com/embed/7Pa_Weidt08",
+            "image": "~/images/animation/PeterRabbit.jpg",
+            "price": "60"
+
+        },
+        {
+            "id": 3,
+            "title": "Smallfoot",
+            "description": "A Yeti is convinced that the elusive creatures known as “humans” really do exist.",
+            "director": "Karey Kirkpatrick, Jason Reisig (co-director)",
+            "writer": "Karey Kirkpatrick, Clare Sera",
+            "stars": "Channing Tatum, James Corden, Zendaya",
+            "trailer": "https://www.youtube.com/embed/uBw6EvIxIS8",
+            "image": "~/images/animation/Smallfoot.jpg",
+            "price": "60"
+
+        },
+        {
+            "id": 4,
+            "title": "Spider-Man: Into the Spider-Verse",
+            "description": "Spider-Man crosses parallel dimensions and teams up with the Spider-Man of those dimensions to stop a threat to all reality.",
+            "director": "Bob Persichetti, Peter Ramsey",
+            "writer": "Phil Lord, Steve Ditko",
+            "stars": "Nicolas Cage, Hailee Steinfeld, John Mulaney",
+            "trailer": "https://www.youtube.com/embed/tg52up16eq0",
+            "image": "~/images/animation/Spider-Man.jpg",
+            "price": "60"
+
+        }
+    ]
+
+
+}
+
+

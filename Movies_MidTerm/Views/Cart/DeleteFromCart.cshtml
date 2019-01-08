@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Your Cart</h2>
+<div class="container">
+    <div class="row alert alert-info">
+        <h4 class="pull-left">Your Cart</h4><input type="button" id="proccedtoShipping" value="Proceed to Shipping" class="btn btn-success pull-right" onclick="location.href='@Url.Action("Index", "Address")'">
+    </div>
+        <div class="row alert alert-info">
+            @foreach (var item in ViewBag.cartItems)
+        {
+            int i = 0;
+            //var temp= JsonConvert.SerializeObject(movie);
+            <div class="col-xs-2">
+                <a href="#" class="thumbnail" style="width:135px;">
+
+                    <img src="@Url.Content((string)item.image)" alt="ASP.NET" class="img-responsive" />
+
+                </a>
+                <strong class="text-uppercase text-danger"> Title:</strong>   @item.title <br>
+                <strong class="text-uppercase text-danger">Price :</strong>$@item.price
+                <div class="text-success">
+                    <strong>  In Stock. </strong><br>              Eligible For Free Shipping <br />
+                </div>
+                <input type="button" id="deleteFromCart" value="Delete" class="btn btn-primary" onclick="location.href='@Url.Action("DeleteFromCart", "Cart",++i)'">
+
+            </div>
+
+            @*<hr>*@
+
+        }
+        </div>
+        <div class="col-xs-4 text-primary" style="border-left:5px"></div>
+
+    </div>
+
+

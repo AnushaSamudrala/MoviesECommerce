@@ -1,0 +1,51 @@
+{
+    "FantasyMovies": [
+        {
+            "id": 1,
+            "title": "Aquaman",
+            "description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.",
+            "director": "James Wan",
+            "writer": "David Leslie Johnson-McGoldrick, Will Beall",
+            "stars": "Amber Heard, Nicole Kidman, Jason Momoa",
+            "trailer": "https://www.youtube.com/embed/WDkg3h8PCVU",
+            "image": "~/images/fantasy/Aquaman.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "Avengers: Infinity War",
+            "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "director": "Anthony Russo, Joe Russo",
+            "writer": "Christopher Markus,",
+            "Writers": "Christopher Markus, Stephen McFeely",
+            "stars": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+            "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+            "image": "~/images/fantasy/Avengers.jpg",
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "title": "The Fantastic Beasts: The Crimes of Grindelwald",
+            "description": "The second installment of the Fantastic Beasts series set in J.K. Rowling's Wizarding World featuring the adventures of magizoologist Newt Scamander.",
+            "director": "David Yates",
+            "writer": "J.K. Rowling",
+            "stars": "Eddie Redmayne, Katherine Waterston, Dan Fogler",
+            "trailer": "https://www.youtube.com/embed/8bYBOVWLNIs",
+            "image": "~/images/fantasy/FantasticBeasts.jpg",
+            "price": "60"
+        },
+        {
+            "id": 4,
+            "title": "The House With A Clock In Its Walls",
+            "description": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+            "director": "Eli Roth",
+            "writer": "Eric Kripke, John Bellairs",
+            "stars": "Jack Black, Cate Blanchett, Owen Vaccaro",
+            "trailer": "https://www.youtube.com/embed/oQGA42-U0Ro",
+            "image": "~/images/fantasy/TheHouseWithAClockInItsWalls.jpg",
+            "price": "60"
+        }
+    ]
+
+
+}

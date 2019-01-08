@@ -1,0 +1,53 @@
+{
+    "ActionMovies": [
+        {
+            "id": 1,
+            "title": "Dead pool 2",
+            "description": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-travelling cyborg, Cable.",
+            "director": "David Leitch",
+            "writer": "Rhett Reese, Paul Wernick",
+            "stars": "Ryan Reynolds, Josh Brolin, Morena Baccarin",
+            "trailer": "https://www.youtube.com/embed/D86RtevtfrA",
+            "image": "~/images/action/DeadPool2.jpg",
+            "price": "60"
+        },
+        {
+            "id": 2,
+            "title": "Mission Impossible Fallout",
+            "description": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+            "director": "Christopher McQuarrie",
+            "writer": "Christopher McQuarrie, Bruce Geller",
+            "stars": "Tom Cruise, Henry Cayill, Ving Rhames",
+            "trailer": "https://www.youtube.com/embed/XiHiW4N7-bo",
+            "image": "~/images/action/MissionImpossibleFallout.jpg",
+            "price": "60"
+
+        },
+        {
+            "id": 3,
+            "title": "Ready Player One",
+            "description": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.",
+            "director": "Steven Spielberg",
+            "writer": "Zak Penn, Ernest Cline",
+            "stars": "Tve Sheridan, Olivia Cooke, Ben Mendelsohn",
+            "trailer": "https://www.youtube.com/embed/cSp1dM2Vj48",
+            "image": "~/images/action/ReadyPlayerOne.jpg",
+            "price": "60"
+
+        },
+        {
+            "id": 4,
+            "title": "Venom",
+            "description": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego “Venom” to save his life.",
+            "director": "Ruben Fleischer",
+            "writer": "Jeff Pinkner, Scott Rosenberg ",
+            "stars": "Tom Hardy, Michelle Williams, Riz Ahmed",
+            "trailer": "https://www.youtube.com/embed/NaILbbTdilk",
+            "image": "~/images/action/Venom.jpg",
+            "price": "60"
+
+        }
+    ]
+
+
+}
